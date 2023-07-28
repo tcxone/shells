@@ -2,7 +2,7 @@
 
 printf "========== start =========="
 termux-setup-storage
-termux-change-repo
+# termux-change-repo
 
 printf "\n\n========== install some packages [total 11] =========="
 pkg upgrade
